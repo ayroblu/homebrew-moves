@@ -1,10 +1,10 @@
-# Ayroblu Moves
+# Moves
 
 ## How do I install these formulae?
 
-`brew install ayroblu/moves/<formula>`
+`brew install ayroblu/moves/moves`
 
-Or `brew tap ayroblu/moves` and then `brew install <formula>`.
+Or `brew tap ayroblu/moves` and then `brew install moves`.
 
 ## Documentation
 
